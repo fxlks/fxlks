@@ -1,13 +1,19 @@
-# Hi, I'm Karolina 👋
+# Karolina Martínková
 
-I'm a Web Development student with a background in Multimedia Design.
+### Web Development · UX · Multimedia Design
 
-I enjoy combining development, design and UX to create digital experiences that are functional, intuitive and visually interesting.
+I'm a Web Development student and Multimedia Design graduate who enjoys the space between **code, design and user experience**.
 
-## About me
+I like creating things that aren't only functional, but intuitive and visually considered. I'm currently exploring backend development, PHP and databases while continuing to develop my skills in UX and frontend development.
 
-- 💻 Currently studying Web Development
-- 🎨 Multimedia Design graduate
-- 🧠 Interested in UX and user-centered design
-- 🌱 Currently learning PHP, databases and backend development
-- 🔨 I enjoy projects where I can combine coding, design and creativity
+---
+
+### Things I've worked with
+
+`HTML` `CSS` `JavaScript` `PHP` `Vue.js` `WordPress` `WooCommerce` `Shopify`
+
+`Figma` `Adobe Creative Suite` `Canva` `Git` `GitHub` `VS Code`
+
+`Blender` `Unity` `SEO`
+
+---
