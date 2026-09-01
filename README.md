@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Karolina 👋
 
-<!--
-**fxlks/fxlks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Development student with a background in Multimedia Design.
 
-Here are some ideas to get you started:
+I enjoy combining development, design and UX to create digital experiences that are functional, intuitive and visually interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 💻 Currently studying Web Development
+- 🎨 Multimedia Design graduate
+- 🧠 Interested in UX and user-centered design
+- 🌱 Currently learning PHP, databases and backend development
+- 🔨 I enjoy projects where I can combine coding, design and creativity
