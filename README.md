@@ -7,6 +7,25 @@ I'm a Web Development student and Multimedia Design graduate who enjoys the spac
 I like creating things that aren't only functional, but intuitive and visually considered. I'm currently exploring backend development, PHP and databases while continuing to develop my skills in UX and frontend development.
 
 ---
+## Featured Work
+
+### 🌿 Terraqua
+WordPress & WooCommerce e-commerce website for exotic pets, plants and related products.  
+`WordPress` `WooCommerce` `PHP` `UX`
+
+### 💅 Julia Nails
+Website for a nail salon, developed with a focus on responsive design and usability.  
+`PHP` `WordPress` `UX`
+
+### 🎮 Survival Island
+Game development project exploring 3D environments and interactive experiences.  
+`Unity` `Blender`
+
+### 💻 Portfolio
+My personal portfolio showcasing projects from Multimedia Design and web development.  
+`WordPress` `PHP` `UX/UI`
+
+
 
 ### Things I've worked with
 
