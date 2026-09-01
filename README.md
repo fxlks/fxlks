@@ -70,25 +70,3 @@ Blender · Unity · SEO
 <br><br>
 
 ---
-
-<h2 align="center">What I Work With</h2>
-
-<p align="center">
-  <b>Development</b><br>
-  HTML · CSS · JavaScript · PHP · Vue.js
-</p>
-
-<p align="center">
-  <b>Design & UX</b><br>
-  Figma · Adobe Creative Suite · Canva · UX/UI
-</p>
-
-<p align="center">
-  <b>CMS & E-commerce</b><br>
-  WordPress · WooCommerce · Shopify
-</p>
-
-<p align="center">
-  <b>Tools & Other Experience</b><br>
-  Git · GitHub · VS Code · Blender · Unity · SEO
-</p>
