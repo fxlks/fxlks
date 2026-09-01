@@ -1,4 +1,4 @@
-<h1 align="center">Karolina Martínková</h1>
+<h1 align="center">Karolina Martinkova</h1>
 
 <p align="center">
   <b>Web Development · UX · Multimedia Design</b>
